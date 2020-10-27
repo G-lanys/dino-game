@@ -3,20 +3,20 @@
 <img src="img/jogo_dino.jpg"/>
 </div>
 <p align="center">
- <a href="#computer-sobre">• Sobre</a> | 
- <a href="#memo-roteiro">• Roteiro</a> | 
- <a href="#hammer-tecnologias">• Tecnologias</a> | 
- <a href="#boy-autor">• Autor</a> 
+ <a href="#computer-sobre">ï¿½ Sobre</a> | 
+ <a href="#memo-roteiro">ï¿½ Roteiro</a> | 
+ <a href="#hammer-tecnologias">ï¿½ Tecnologias</a> | 
+ <a href="#boy-autor">ï¿½ Autor</a> 
 </p>
 
 ## :computer: **Sobre**
 
-Desafio pratico de recreação do Jogo do dinossauro,famoso no Chrome por nos entreter quando estamos sem conexão. 
+Desafio pratico de recreaï¿½ï¿½o do Jogo do dinossauro,famoso no Chrome por nos entreter quando estamos sem conexï¿½o. 
 
 ## :memo: **Roteiro**
 
 <div align="center">
-Nesse projeto foi utilizando HTML, CSS e Javascript de forma introdutória, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
+Nesse projeto foi utilizando HTML, CSS e Javascript de forma introdutï¿½ria, abordando de maneira simples diversos conceitos introdutï¿½rios importantes para programaï¿½ï¿½o na web como tags bï¿½sicas de HTML, manipulaï¿½ï¿½o de eventos, funï¿½ï¿½es e manipulaï¿½ï¿½o de elementos HTML usando JavaScript, estilizaï¿½ï¿½o e animaï¿½ï¿½es bï¿½sicas com CSS.
 </div>
  
 
@@ -29,5 +29,5 @@ Nesse projeto foi utilizando HTML, CSS e Javascript de forma introdutória, abord
 ## :girl: **Autora**
 
 <div align="center">
-Feito por Alane G. Brito ??
+Feito por Alane G. Brito â¤ï¸
 </div>
